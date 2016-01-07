@@ -1,0 +1,20 @@
+{
+	"linters" : {
+		"cpp" : {
+			"type" : "cppcheck",
+			"include" : "(\\.cpp$)"
+		},
+		"c" : {
+			"type" : "cppcheck",
+			"include" : "(\\.c$)"
+		},
+		"h" : {
+			"type" : "cppcheck",
+			"include" : "(\\.h$)"
+		},
+		"hpp" : {
+			"type" : "cppcheck",
+			"include" : "(\\.hpp$)"
+		}
+	}
+}
