@@ -6,3 +6,7 @@
 	path = lib/hippomocks
 	url = https://github.com/dascandy/hippomocks
 	ignore = dirty
+[submodule "lib/sfml2.3.2_w64"]
+	path = lib/sfml2.3.2_w64
+	url = git@github.com:seungrye/SFML2.3.2_VS2015_x64.git
+	ignore = dirty
