@@ -1,0 +1,8 @@
+[submodule "lib/catch"]
+	path = lib/catch
+	url = https://github.com/philsquared/Catch.git
+	ignore = dirty
+[submodule "lib/hippomocks"]
+	path = lib/hippomocks
+	url = https://github.com/dascandy/hippomocks
+	ignore = dirty
